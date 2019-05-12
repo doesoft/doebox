@@ -1,2 +1,3 @@
 # doebox
-A cloud based file manager developed using python django
+A cloud based file manager using django.
+
