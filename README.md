@@ -1,3 +1,4 @@
+
 # Doebox
 
 Cloudbased filemanager powered by Django
@@ -8,7 +9,7 @@ Cloudbased filemanager powered by Django
 
 - [Doebox](#Doebox)
   - [Getting Started](#getting-started)
-    - [Installation](#installation)
+    -[Installation](#installation)
   - [Running Locally](#running-locally)
   - [Todo](#todo)
 
@@ -26,6 +27,7 @@ Clone the repo
 Activate virtual environment. All project work should be done in virtualenvs and virtualenv names must be added to gitignore
 
 ### Installation
+
 
 #### From Make File
 - You could easily run from project directory to setup project or follow through
@@ -64,5 +66,6 @@ To view the API locally on port 8000
 ## Todo
 
 See [TODO](TODO.md) 
+
 
 
